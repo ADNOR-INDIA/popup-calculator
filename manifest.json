@@ -12,8 +12,8 @@
     ],
    
     "browser_action":{
-        "default_icon":"download.png",
+        "default_icon":"download.jpg",
         "default_popup":"popup.html",
-        "default_title":"A popup will come here"
+        "default_title":"Calculator"
     }
 }
